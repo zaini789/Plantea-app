@@ -26,7 +26,8 @@ The platform earns revenue through a **5–10% commission** on every order. Sell
 | **Instructor** | Dr. Syed Khaldoon Khurshid |
 | **Semester** | CS 3rd Semester |
 | **Phase** | Week 4 — Design Phase |
-| **Team** | M Bilal (2025-S-CS-26) · M Saddique (2025-S-CS-02) · M Usman 2025(S)-CS-48 | M Muzammil (2025-S-CS-22) · Zain Ali (2025-S-CS-54) · 
+| **Team** | M Bilal (2025-S-CS-26) · M Saddique (2025-S-CS-02) · M Usman 2025(S)-CS-48 
+| M Muzammil (2025-S-CS-22) · Zain Ali (2025-S-CS-54) · 
 ---
 
 
