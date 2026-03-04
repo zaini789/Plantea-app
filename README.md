@@ -26,9 +26,9 @@ The platform earns revenue through a **5–10% commission** on every order. Sell
 | **Phase** | Week 4 — Design Phase |
 | **Team** | M Bilal (2025-S-CS-26) ·
 M Saddique (2025-S-CS-02) ·
-M Usman (2025 -S -CS -).
+M Usman (2025 -S -CS -48).
 Zain Ali(2025-S-CS-54) .
-Muzammil (2025-S-CS-)|
+Muzammil (2025-S-CS-22)|
 
 ---
 
@@ -94,7 +94,7 @@ Track progress on our [GitHub Projects Board](../../projects).
 | To-Do | In Progress | Done |
 |-------|------------|------|
 | Order flow API | Plant listing API | ✅ Requirements |
-| Rider GPS module | Supabase schema | ✅ MoSCoW priorities |
+| Rider GPS module |  | ✅ MoSCoW priorities |
 | Reviews & ratings | AI Scanner integration | ✅ Architecture design |
 | Push notifications | | ✅ ER data modeling |
 | | | ✅ Git repo created |
@@ -116,8 +116,11 @@ Track progress on our [GitHub Projects Board](../../projects).
 | Name | Role | Branch |
 |------|------|--------|
 | M Bilal | Team Lead & Backend | `bilal` |
-| M Saddique | Database & API | `saddique` |
-| M Usman | Frontend & Mobile | `usman` |
+| M Saddique | Frontend & Mobile | `saddique` |
+| M Usman | Backend  | `usman` |
+| Zain Ali | Frontend & Design  | `zain` |
+| M Muzammil | Database & API's  | `muzammil` |
+
 
 ---
 
@@ -127,7 +130,3 @@ This project is developed for academic purposes under IDEAL Labs, UET Lahore.
 
 ---
 
-<p align="center">
-  🌿 <strong>Plantea</strong> — Pakistan's Smart Plant Marketplace<br>
-  IDEAL Labs · UET Lahore · CS 3rd Semester
-</p>
